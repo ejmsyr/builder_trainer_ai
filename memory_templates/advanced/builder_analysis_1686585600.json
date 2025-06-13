@@ -1,0 +1,42 @@
+{
+  "profile_summary": {
+    "task_count": 1,
+    "average_score": 50.0,
+    "skills_mastered_count": 0,
+    "weak_skills_count": 1
+  },
+  "performance_trend": {
+    "trend": "neutral",
+    "average": 50.0,
+    "min": 50.0,
+    "max": 50.0,
+    "count": 1
+  },
+  "skill_gaps": [
+    {
+      "skill": "error_handling",
+      "level": 0.2,
+      "tasks_completed": 1,
+      "priority": "high"
+    }
+  ],
+  "style_issues": [
+    {
+      "issue": "missing_error_handling",
+      "count": 1,
+      "priority": "medium"
+    }
+  ],
+  "learning_opportunities": [
+    {
+      "skill": "recursion",
+      "level": 0.3,
+      "tasks_completed": 1,
+      "type": "skill_advancement",
+      "priority": "medium"
+    }
+  ],
+  "recommended_focus": "skill_gap:error_handling",
+  "timestamp": "2025-06-12T00:00:00"
+}
+

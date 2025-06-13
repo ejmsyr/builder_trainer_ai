@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  builder-trainer:
+    build: .
+    container_name: builder-trainer-ai
+    volumes:
+      - ./memory:/home/agent/memory
+    environment:
+      - OPENAI_API_BASE=${OPENAI_API_BASE}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - MODEL_NAME=${MODEL_NAME}
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - builder-trainer-network
+
+networks:
+  builder-trainer-network:
+    driver: bridge
+

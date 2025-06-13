@@ -1,0 +1,16 @@
+[
+  {
+    "task_id": "initial_task_001",
+    "score": 50.0,
+    "difficulty": 0.3,
+    "source": "trainer",
+    "timestamp": "2025-06-12T00:00:00",
+    "metrics": {
+      "correctness": 0.5,
+      "efficiency": 0.5,
+      "elegance": 0.5,
+      "robustness": 0.5
+    }
+  }
+]
+

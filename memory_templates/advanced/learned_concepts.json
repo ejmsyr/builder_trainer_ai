@@ -1,0 +1,11 @@
+{
+  "concepts": {
+    "recursion": {
+      "description": "A programming technique where a function calls itself",
+      "related_skills": ["python", "algorithms"],
+      "confidence": 0.5,
+      "last_updated": "2025-06-12T00:00:00"
+    }
+  }
+}
+

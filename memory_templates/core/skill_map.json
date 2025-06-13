@@ -1,0 +1,18 @@
+{
+  "skills": {
+    "python": {
+      "level": 0.3,
+      "tasks_completed": 1,
+      "last_used": "2025-06-12T00:00:00"
+    }
+  },
+  "categories": {
+    "language_proficiency": ["python"],
+    "data_processing": ["json_parsing", "csv_handling"],
+    "web_development": ["html", "css", "javascript"],
+    "error_handling": ["exception_handling", "input_validation"],
+    "testing": ["unit_testing", "integration_testing"],
+    "algorithms": ["sorting", "searching", "graph_algorithms"]
+  }
+}
+

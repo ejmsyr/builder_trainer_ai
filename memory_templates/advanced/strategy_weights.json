@@ -1,0 +1,9 @@
+{
+  "skill_gap_filling": 0.3,
+  "style_improvement": 0.2,
+  "regression_prevention": 0.2,
+  "skill_advancement": 0.1,
+  "exploration": 0.1,
+  "consolidation": 0.1
+}
+
